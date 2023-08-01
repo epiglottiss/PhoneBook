@@ -1,0 +1,3 @@
+﻿  PhoneBook001.cpp
+C:\dev\PhoneBooks\PhoneBook001\PhoneBook001\PhoneBook001.cpp(12,2): warning C4091: 'typedef ': ignored on left of 'PhoneInfo' when no variable is declared
+  PhoneBook001.vcxproj -> C:\dev\PhoneBooks\PhoneBook001\Debug\PhoneBook001.exe
